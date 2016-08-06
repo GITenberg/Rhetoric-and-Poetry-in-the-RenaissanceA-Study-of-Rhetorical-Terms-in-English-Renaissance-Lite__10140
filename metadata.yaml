@@ -1,0 +1,31 @@
+_repo: Rhetoric-and-Poetry-in-the-RenaissanceA-Study-of-Rhetorical-Terms-in-English-Renaissance-Lite__10140
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clark, Donald Lemen
+    birthdate: 1888
+    deathdate: 1966
+    gutenberg_agent_id: '3327'
+    url: http://www.gutenberg.org/2009/agents/3327
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10140'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criticism -- Great Britain -- History -- 16th century'
+- !lcsh 'Rhetoric -- Terminology'
+- !lcsh 'Renaissance'
+- !lcsh 'Poetry -- History and criticism'
+- !lcsh 'Criticism -- Great Britain -- History -- 17th century'
+- !lcsh 'English language -- Early modern, 1500-1700 -- Terms and phrases'
+- !lcc 'PN'
+- GITenberg
+title: 'Rhetoric and Poetry in the Renaissance
+
+  A Study of Rhetorical Terms in English Renaissance Literary Criticism'
+url: http://www.gutenberg.org/ebooks/10140
